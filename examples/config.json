@@ -1,0 +1,26 @@
+[
+    {
+        "dai": {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "abi_path": "abi/daiABI.json",
+            "methods": {
+                "balanceOf": [
+                    "0xF89e33835E0Eb0e09666030695B674cDEF466e53",
+                    "0x008Ca3a9C52e0F0d9Ee94d310D20d67399d44f6C"
+                ],
+                "allowance": [
+                    ["0xF89e33835E0Eb0e09666030695B674cDEF466e53", "0x9759A6Ac90977b93B58547b4A71c78317f391A28"]
+                ]
+            }
+        },
+        "clipper": {
+            "address": "0xc67963a226eddd77B91aD8c421630A1b0AdFF270",
+            "abi_path": "abi/clipperABI.json",
+            "methods": {
+                "sales": [
+                    3
+                ]
+            }
+        } 
+    }
+]
